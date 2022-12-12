@@ -1,7 +1,11 @@
 import "./Header.css";
 
 function Header() {
-  return <p className="Header">im a header</p>;
+  return (
+    <header className="Header">
+      <h1>Header</h1>
+    </header>
+  );
   //return <h1>hey</h1>;
 }
 

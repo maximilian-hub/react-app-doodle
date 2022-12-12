@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "description": "heal childhood trauma",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "description": "play a ton of video games",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "description": "build valuable skills",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "description": "bury your emotions",
+    "completed": true
+  }
+]
