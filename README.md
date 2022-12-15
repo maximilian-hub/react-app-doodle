@@ -5,6 +5,7 @@ This is a todo-list app made with react.
 ## Features
 
 Users can:
+
 - view a list of tasks
 - add tasks
 - remove tasks
